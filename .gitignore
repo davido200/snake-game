@@ -1,5 +1,7 @@
 # Ignore everything by default
 *
 
-# Except the snake game
+# Except the snake game and README
 !snake-game.html
+!index.html
+!README.md
